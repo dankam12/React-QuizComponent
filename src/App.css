@@ -24,6 +24,7 @@ ul {
   display: flex;
   justify-content: center;
   text-align: center;
+  
 }
 button {
   margin: 0.6em auto;
